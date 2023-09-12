@@ -1,0 +1,290 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    position: relative;
+}
+
+.body img {
+    width: 100%;
+    height: 150vh;
+}
+
+.container {
+    position: absolute;
+    top: 200px;
+    padding-left: 150px;
+    box-sizing: border-box;
+    padding-right: 0;
+}
+
+.container h1 {
+    color: rgb(77, 88, 215);
+    font-size: 128px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+
+}
+
+.container h2 {
+    width: 260px;
+    color: rgb(77, 88, 215);
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 30px;
+    line-height: 40px;
+}
+
+.container p {
+    width: 499px;
+    color: rgb(77, 88, 215);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin-top: 20px;
+
+}
+
+.section {
+    background-color: black;
+    padding: 15vh 0px;
+    box-sizing: border-box;
+}
+
+.p-f {
+    margin-top: 20px;
+    padding-left: 260px;
+
+}
+
+.p-f h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    /* line-height: 20px; */
+    padding-bottom: 5px;
+}
+
+.p-f h2 {
+    color: rgb(255, 255, 255);
+    font-weight: 400px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 10px;
+    /* line-height: 20px; */
+}
+
+.p-f p {
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    /* line-height: 20px; */
+    padding-bottom: 4px;
+    width: 730px;
+}
+
+.bg-image {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0px;
+    contain: layout;
+    height: 90vh;
+    position: relative;
+}
+
+.image1 img {
+    width: 98%;
+    height: 90vh;
+}
+
+
+
+.image2 img {
+    width: 100%;
+    height: 90vh;
+}
+
+.card1 {
+    position: absolute;
+    top: 264%;
+    margin: 0;
+    padding-left: 661px;
+}
+
+.card1-h-p {
+    padding: 40px 30px;
+    background-color: #4d58d7;
+    box-sizing: border-box;
+    width: 350px;
+    margin: 0;
+}
+
+.card1-h-p h1 {
+    width: 300px;
+    color: rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+
+.card1-h-p p {
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin-top: 20px;
+    line-height: 22.4px;
+}
+
+.card1-p {
+    margin: 0;
+    background-color: #999999;
+    padding: 40px 30px;
+    box-sizing: border-box;
+    width: 350px;
+    margin: 0px;
+}
+
+
+
+.card2 {
+    box-sizing: border-box;
+    margin: 0;
+    width: 97%;
+    contain: layout;
+    padding: 0;
+    height: auto;
+}
+
+
+
+.card2 img {
+    width: 113%;
+    height: 50vh;
+}
+
+
+.section2 {
+    background-color: #4d58d7;
+    padding: 50px;
+    box-sizing: border-box;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.section2 h1 {
+    color: rgb(255, 255, 255);
+    font-size: 48px;
+    font-weight: 300;
+    margin-top: 15px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+.section2 img {
+    width: 25px;
+    height: auto;
+    width: right 0px;
+    margin-left: 10px;
+}
+
+.body2 {
+    position: relative;
+}
+
+.body2 img {
+    width: 100%;
+    height: 130vh;
+}
+
+.container-2 {
+    position: absolute;
+    top: 210px;
+    padding-left: 150px;
+    box-sizing: border-box;
+}
+
+.container-2 h1 {
+    color: rgb(255, 255, 255);
+    font-size: 48px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    width: 300px;
+
+}
+
+.container-2 h2 {
+    width: 260px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 35px;
+}
+
+.container-2 p {
+    width: 499px;
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin-top: 20px;
+    line-height: 25px;
+    margin-top: 20px;
+    width: 550px;
+
+}
+
+.body3 {
+    position: relative;
+}
+
+.body3 img {
+    width: 100%;
+    height: 100vh;
+}
+
+.container-3 {
+    position: absolute;
+    top: 200px;
+    box-sizing: border-box;
+    right: 0;
+
+
+}
+
+.container-3 h1 {
+    color: #000;
+    font-size: 48px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    width: 300px;
+
+}
+
+.container-3 h2 {
+    width: 260px;
+    color: #000;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 35px;
+}
+
+.container-3 p {
+    width: 499px;
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin-top: 20px;
+    line-height: 25px;
+    margin-top: 20px;
+    width: 550px;
+
+}
